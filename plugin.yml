@@ -1,0 +1,11 @@
+name: iphone
+author: Yaser
+main: Yaser\iphone\Main
+api: 3.0.0
+version: 1.2.0
+
+commands:
+  iphone:
+    description: "Buy Iphone Phone"
+     
+   
